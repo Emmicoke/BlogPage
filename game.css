@@ -1,0 +1,72 @@
+#mainText {
+    color: black;
+    background-color: aliceblue;
+    max-width: 500px;
+    max-height: 500px;
+    padding: 5px;
+    border: 3px solid lightblue;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.gameButton {
+    margin: 10px 10px 10px 10px;
+    width: 80px;
+    height: 80px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aliceblue;
+    border: 2px solid lightblue;
+    border-radius: 20px;
+}
+
+.gameButton:hover {
+    margin: 10px 10px 10px 10px;
+    cursor: pointer;
+    width: 70px;
+    height: 70px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightgray;
+    border: 2px solid lightblue;
+    border-radius: 20px;
+}
+
+#diceIMG {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+#playerText {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+    margin-left: 100px;
+}
+
+#computerText {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    margin-left: 150px;
+}
+
+#winStat {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(7, 242, 7);
+    padding-left: 50px;
+}
+
+#loseStat {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    padding-left: 50px;
+}
+
+#drawStat {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+    padding-left: 50px;
+}

@@ -1,0 +1,117 @@
+/* Header */
+#Top {
+    color: white;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#gamesH1{
+    color: black;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Body */
+#Mainbd {
+    background-image: url('media/DSC02006.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#Formpg {
+    background-image: url('media/DSC01508.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#Gamesbd {
+    background-image: url('media/DSC02083.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#Conctactbd {
+    background-image: url('media/DSC02518.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* Menu */
+.Menutb th {
+    background-color: aliceblue;
+    width: 25%;
+}
+
+/* Paragraph */
+p {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 50px;
+    color: black;
+}
+
+/* Link */
+a:visited {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+/* Menu bar */
+.Menutb {
+    width: 100%;
+    font-size: 20px;
+    font-family: Verdana;
+}
+
+.Menu:link {
+    color: black;
+    size: 100px;
+    text-decoration: dotted;
+}
+
+.Menu:visited {
+    color: black;
+    text-decoration: dotted;
+}
+
+.Menutb th {
+    border: 1px;
+    border-radius: 10px;
+}
+
+.Menutb th:hover {
+    background-color: silver;
+}
+
+/* Form page section */
+
+#Formtb thead th {
+    background-color: aqua;
+}
+
+#Formtb tbody td {
+    border-color: aliceblue;
+    color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#h2{
+    color: aliceblue;
+}
+
+#text1{
+    color: aliceblue;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Formtp {
+    font-size: 45px;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
